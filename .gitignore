@@ -1,0 +1,8 @@
+# Diretórios de dados do container
+postgres_data/
+n8n_data/
+
+# Arquivos de ambiente e sistema
+.env
+.DS_Store
+Thumbs.db
